@@ -13,7 +13,7 @@ Build a Restful CRUD API for a simple user application using Spring Boot and Pos
 **1. Clone the application**
 
 ```
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/samarth18/spring-boot-user-api.git
 ```
 
 **2. Run the PostgreSQL docker container**
